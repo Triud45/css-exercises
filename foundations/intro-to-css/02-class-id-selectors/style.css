@@ -1,0 +1,21 @@
+/*style.css*/
+
+.odd-number {
+    background-color: #ff8ba0;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-number.cooler-class {
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
